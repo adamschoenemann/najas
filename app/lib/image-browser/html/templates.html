@@ -1,0 +1,120 @@
+<script type="text/template" id="image-template">
+
+<img alt="Check image" 
+     title='Check image'
+     id='check_ic'
+     <% selected ? 
+        print("src='../app/lib/image-browser/icon/Check-Box-32.png'") :
+        print("src='../app/lib/image-browser/icon/Check-Box-Unchecked-32.png'") %>
+     class='icon' />
+<span class='overlay'>
+  <span id='title'>
+    <%= title %>
+  </span>
+  <div class='icons'>
+    <img alt='Delete image'
+         title='Delete image' 
+         id='delete_ic' 
+         src='../app/lib/image-browser/icon/Bin-32.png' 
+         class='icon' />
+    <img alt='Edit image'
+         title='Edit image' 
+         id='edit_ic' 
+         src='../app/lib/image-browser/icon/Edit-32.png' 
+         class='icon' />
+  </div>
+  <a title="<%= title %> - <%= description %>" href="../uploads/<%= path %>" data-lightbox='gallery'>
+    <div id="overlay_bg"></div>
+  </a>
+</span>
+<img class='imgbrowser-img' alt="<%= title %>" src='../uploads/<%= path %>' />
+</script>
+
+<script type="text/template" id="image-browser-template">
+<div class='action_bar'>
+    <img title='Add image'
+         alt='Add image' 
+         src="../app/lib/image-browser/icon/Add-32.png" 
+         id="add_ic"
+         class='icon'/>
+    <img alt='Delete image'
+         title='Delete image' 
+         id='delete_ic' 
+         src='../app/lib/image-browser/icon/Bin-Grey-32.png'
+         class='icon' />
+</div>
+<ul class='imgbrowser-list'>
+</ul>
+<div class='clear'></div>
+</script>
+
+<script type="text/template" id="modal-box-template">
+<div class="modal-box">
+  <div class="modal-box-header">
+    <img title="Close"
+       alt="Close"
+       id="close_ic"
+       src="../app/lib/image-browser/icon/Close-32.png"
+       class="icon" />
+  </div>
+  <div class="modal-box-body">
+    <%= body %>
+  </div>
+</div>
+<div class="backdrop"></div>
+</script>
+
+<script type="text/template" id="edit-images-box-template">
+<h3>Edit Image</h3>
+<form id='fields'>
+  <table>
+    <tr>
+      <td><label for='title'>Title</label></td>
+      <td><input type="text" id="title" name="title" value="<%= title %>" /></td>
+    </tr>
+    <tr>
+      <td><label for='description'>Description</label></td>
+      <td><input type="text" id="description" name="description" value="<%= description %>" /></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <span class="submit-btn">Done</span>
+        <span class="cancel-btn">Cancel</span>
+      </td>
+    </tr>
+  </table>
+</form>
+</script>
+
+<script type="text/template" id="add-image-template">
+<h3>Add Image</h3>
+<form id="add-image-form">
+  <table>
+    <tr>
+      <td><label for="fileupload">Image</label></td>
+      <td><input id="fileupload" type="file" accept="image/*" name="image" method="POST" /></td>
+    </tr>
+  </table>
+</form>
+</script>
+
+<script type="text/template" id="image-list-view-template">
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Thumbnail</th>
+  </tr>
+</table>
+</script>
+
+<script type="text/template" id="image-row-view-template">
+<td><input type="text" id="title" name="title" value="<%= title %>" /></td>
+<td><input type="text" id="description" name="description" value="<%= description %>" /></td>
+<td>
+  <a title="<% title %>" href="../uploads/<%= path %>" data-lightbox="added-image">
+    <img class="imgbrowser-img" alt="<% title %>" src="../uploads/<%= path %>" />
+  </a>
+  <input type="file" id="replace-img" accept="image/*" name="replace-img" method"POST" value="Replace"/>
+</td>
+</script>

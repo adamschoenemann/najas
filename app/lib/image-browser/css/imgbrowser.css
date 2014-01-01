@@ -1,0 +1,140 @@
+.imgbrowser-li {
+  float: left;
+  margin: 5px;
+  position: relative;
+}
+
+.overlay {
+  visibility: hidden;
+  position: absolute;
+  display: block;
+  opacity: 0;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+
+.overlay #overlay_bg {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.overlay:hover {
+  visibility: visible;
+}
+
+.overlay span#title {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  font-size: 1.1em;
+  color: white;
+}
+
+.icons {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+#check_ic {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 3;
+}
+
+.imgbrowser-img {
+  max-height: 100px;
+  display: block;
+  border: 1px solid #aaa;
+}
+
+/*TODO: Make modal box realign when height changes*/
+.modal-box {
+  position: fixed;
+  z-index: 5;
+  top: 50%; 
+  left: 50%;
+  margin-left: -300px;
+  margin-top: -150px;
+  width: 600px;
+  min-height: 300px;
+  background-color: white;
+  border: 5px solid #aaa;
+  border-radius: 15px;
+  padding-bottom: 20px;
+}
+
+.modal-box #close_ic {
+  display: block;
+}
+
+.modal-box-body {
+  text-align: left;
+  margin: 0 10px;
+}
+
+.edit-image .modal-box-body {
+  
+}
+
+.edit-image .modal-box table {
+  /*margin-left: 10px;*/
+}
+
+.edit-image .modal-box td {
+  padding-right: 15px;
+}
+
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 4;
+}
+
+.edit-image span.submit-btn {
+  background-color: #4266AD;
+  padding: 10px;
+  cursor: pointer;
+  color: #FFF;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 15px;
+}
+
+.edit-image span.cancel-btn {
+  background-color: #C40E0E;
+  padding: 10px;
+  cursor: pointer;
+  color: #FFF;
+  display: inline-block;
+  margin-top: 10px;
+}
+span.upload-btn {
+  background-color: #FF8000;
+  padding: 10px;
+  cursor: pointer;
+  color: #FFF;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 15px;
+}
+
+
+.image-row-view td {
+  vertical-align: top;
+}

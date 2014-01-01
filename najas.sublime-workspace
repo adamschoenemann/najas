@@ -1,0 +1,2394 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ImageL",
+				"ImageList"
+			],
+			[
+				"imgL",
+				"imgListView"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mod",
+				"modal-box-body"
+			],
+			[
+				"t",
+				"tr"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"json_",
+				"json_decode"
+			],
+			[
+				"cop",
+				"copyFrom"
+			],
+			[
+				"save",
+				"saveAttr"
+			],
+			[
+				"la",
+				"label	<label>"
+			],
+			[
+				"inp",
+				"input	input - text"
+			],
+			[
+				"fo",
+				"form	<form>"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"imae",
+				"image-browser"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"on",
+				"onCheckClick"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"onMo",
+				"onmouseOut"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"dat",
+				"dataType"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"new",
+				"newname"
+			],
+			[
+				"upl",
+				"upload_file"
+			],
+			[
+				"base",
+				"basename"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"put",
+				"putdata"
+			],
+			[
+				"extra",
+				"extra_fields"
+			],
+			[
+				"ext",
+				"extra_fields"
+			],
+			[
+				"mys",
+				"mysql_info"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"is_A",
+				"is_array"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"Desci",
+				"description"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"is",
+				"isValueEmpty"
+			],
+			[
+				"get_cont",
+				"get_controller_uri"
+			],
+			[
+				"delt",
+				"deltaPos"
+			],
+			[
+				"Vec",
+				"Vector3	x, y, z"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"mysql_e",
+				"mysql_error"
+			],
+			[
+				"mysql_fec",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"cas",
+				"cast"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"pi",
+				"pi	PI"
+			],
+			[
+				"glTra",
+				"glTranslatef(GLfloat x, GLfloat y, GLfloat z)	void"
+			],
+			[
+				"GL_DEP",
+				"GL_DEPTH_BUFFER_BIT	macro"
+			],
+			[
+				"GL_PROJ",
+				"GL_PROJECTION	macro"
+			],
+			[
+				"glM",
+				"glMatrixMode(GLenum mode)	void"
+			],
+			[
+				"GL_USI",
+				"GL_UNSIGNED_BYTE	macro"
+			],
+			[
+				"memc",
+				"memcpy(void *restrict _Dst, const void *restrict _Src, size_t _Size)	void *"
+			],
+			[
+				"fclo",
+				"fclose(FILE *_File)	int"
+			],
+			[
+				"glMult",
+				"glMultMatrixf(const GLfloat *m)	void"
+			],
+			[
+				"GL_PROJE",
+				"GL_PROJECTION_MATRIX	macro"
+			],
+			[
+				"GL_NORMAL",
+				"GL_NORMAL_ARRAY	macro"
+			],
+			[
+				"glutSoli",
+				"glutSolidTeapot(GLdouble size)	void"
+			],
+			[
+				"glutSolid",
+				"glutSolidIcosahedron()	void"
+			],
+			[
+				"light",
+				"light_intensity	GLfloat[]"
+			],
+			[
+				"GL_AMB",
+				"GL_AMBIENT_AND_DIFFUSE	macro"
+			],
+			[
+				"GL_IN",
+				"GL_INTENSITY	macro"
+			],
+			[
+				"glMat",
+				"glMaterialfv(GLenum face, GLenum pname, const GLfloat *params)	void"
+			],
+			[
+				"glmat",
+				"glMaterialfv(GLenum face, GLenum pname, const GLfloat *params)	void"
+			],
+			[
+				"GL_UNS",
+				"GL_UNSIGNED_BYTE	macro"
+			],
+			[
+				"delta",
+				"deltaScale	float"
+			],
+			[
+				"isdra",
+				"isDraggingRight	bool"
+			],
+			[
+				"isDra",
+				"isDraggingRight	bool"
+			],
+			[
+				"glSca",
+				"glScalef(GLfloat x, GLfloat y, GLfloat z)	void"
+			],
+			[
+				"glutPo",
+				"glutPostRedisplay()	void"
+			],
+			[
+				"GLUT_DO",
+				"GLUT_DOWN	macro"
+			],
+			[
+				"glTr",
+				"glTranslatef(GLfloat x, GLfloat y, GLfloat z)	void"
+			],
+			[
+				"Ind",
+				"IndicesNumber	int"
+			],
+			[
+				"nu",
+				"VerticesNumber	int"
+			],
+			[
+				"GL_FL",
+				"GL_FLOAT	macro"
+			],
+			[
+				"GL_VERTE",
+				"GL_VERTEX_ARRAY	macro"
+			],
+			[
+				"GL_VERTEX",
+				"GL_VERTEX_ARRAY_POINTER	macro"
+			],
+			[
+				"GL_PO",
+				"GL_POLYGON	macro"
+			],
+			[
+				"diskI",
+				"diskIndicesArr	GLubyte [93]"
+			],
+			[
+				"disk",
+				"diskVertsArr	GLfloat [33]"
+			],
+			[
+				"cylid",
+				"cylinderVerticesArr	GLfloat *"
+			],
+			[
+				"disk_n",
+				"disk_nIndices(GLuint resolution)	GLuint"
+			],
+			[
+				"diskIn",
+				"diskIndicesArr	GLubyte [63]"
+			],
+			[
+				"cube",
+				"cubeIndices	GLubyte [36]"
+			],
+			[
+				"pri",
+				"prismIndices	GLubyte[]"
+			],
+			[
+				"cylinder_n",
+				"cylinder_nVerts(GLuint resolution)	GLuint"
+			],
+			[
+				"cylinderInd",
+				"cylinderIndices(GLuint resolution, GLfloat radius, GLfloat height)	GLubyte *"
+			],
+			[
+				"dis",
+				"disk_nIndices(GLuint resolution)	GLuint"
+			],
+			[
+				"GLu",
+				"GLuint	typedef"
+			],
+			[
+				"prism",
+				"prismVerts	GLfloat [18]"
+			],
+			[
+				"glPol",
+				"glPolygonMode(GLenum face, GLenum mode)	void"
+			],
+			[
+				"glutP",
+				"glutPostRedisplay()	void"
+			],
+			[
+				"glRotate",
+				"glRotatef(GLfloat angle, GLfloat x, GLfloat y, GLfloat z)	void"
+			],
+			[
+				"glVertex3f",
+				"glVertex3f(GLfloat x, GLfloat y, GLfloat z)	void"
+			],
+			[
+				"size",
+				"size	size"
+			],
+			[
+				"set",
+				"setup	setup"
+			],
+			[
+				"Pro",
+				"Programs"
+			],
+			[
+				"glRo",
+				"glRotatef(GLfloat angle, GLfloat x, GLfloat y, GLfloat z)	void"
+			],
+			[
+				"glPop",
+				"glPopMatrix()	void"
+			],
+			[
+				"glutInitWin",
+				"glutInitWindowSize(int width, int height)	void"
+			],
+			[
+				"GLUT_RG",
+				"GLUT_RGBA	macro"
+			],
+			[
+				"glSc",
+				"glScalef(GLfloat x, GLfloat y, GLfloat z)	void"
+			],
+			[
+				"GL_LINE_S",
+				"GL_LINE_STRIP	macro"
+			],
+			[
+				"GL_LINE",
+				"GL_LINES	macro"
+			],
+			[
+				"glTransla",
+				"glTranslated(GLdouble x, GLdouble y, GLdouble z)	void"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ui/css/lightbox.css",
+			"settings":
+			{
+				"buffer_size": 4262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/routes.ini",
+			"settings":
+			{
+				"buffer_size": 2609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ui/admin/galleries/edit.html",
+			"settings":
+			{
+				"buffer_size": 332,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ui/layout.html",
+			"settings":
+			{
+				"buffer_size": 552,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/config/config.ini",
+			"settings":
+			{
+				"buffer_size": 942,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ui/admin/admin.html",
+			"settings":
+			{
+				"buffer_size": 1631,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/admin/admin.php",
+			"settings":
+			{
+				"buffer_size": 1291,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ui/admin/playground.html",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/utils/utils.php",
+			"settings":
+			{
+				"buffer_size": 2607,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/controller.php",
+			"settings":
+			{
+				"buffer_size": 1488,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/lib/image-browser/html/templates.html",
+			"settings":
+			{
+				"buffer_size": 3344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/lib/image-browser/css/imgbrowser.css",
+			"settings":
+			{
+				"buffer_size": 1831,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/lib/image-browser/js/image-browser.js",
+			"settings":
+			{
+				"buffer_size": 8254,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/api/images.php",
+			"settings":
+			{
+				"buffer_size": 2930,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "notes.md",
+			"settings":
+			{
+				"buffer_size": 1939,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Processing/Processing.sublime-build",
+	"command_palette":
+	{
+		"height": 313.0,
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"inde",
+				"Auto indent"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"us",
+				"Preferences: Settings - User"
+			],
+			[
+				"previ",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"new ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"JSON",
+				"Indent JSON"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rea",
+				"FTPSync: Open README (Github)"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"browse pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ky",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"setti",
+				"Preferences: Settings - User"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"auto",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"previe",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mardo",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"rpevi",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"prei",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"preivew",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"subli",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"new f",
+				"File: New File Relative to Current View"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"clan",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"sublim",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"clang",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"sublimeC",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"forma",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"imp",
+				"Java: Import Class Under Cursor"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Ja",
+				"Set Syntax: Java"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"Java",
+				"Set Syntax: Java"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"im",
+				"Java: Organize Imports"
+			],
+			[
+				"new V",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new i",
+				"File: New File Relative to Current View"
+			],
+			[
+				"moe",
+				"File: Move"
+			],
+			[
+				"newf",
+				"File: New View into File"
+			],
+			[
+				"for",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"form",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"todo",
+				"Set Syntax: Todo"
+			],
+			[
+				"Sup",
+				"Preferences: Super Ant – Settings"
+			],
+			[
+				"Super ",
+				"Preferences: Super Ant – Settings"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"impor",
+				"Snippet: import junit.framework.TestCase;"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"impo",
+				"Java: Import Class Under Cursor"
+			],
+			[
+				"file: n",
+				"File: New File Relative to Current View"
+			],
+			[
+				"Projec",
+				"Project: Edit"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"XML",
+				"Indent XML"
+			],
+			[
+				"jso",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"ASt",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"copy ",
+				"File: Copy Path"
+			],
+			[
+				"run",
+				"Build: Run"
+			],
+			[
+				"SublimeL",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"main",
+				"Snippet: main()"
+			],
+			[
+				"Snippet: ",
+				"Snippet: For Loop"
+			],
+			[
+				"pack Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Bracket",
+				"Bracket Highlighter: Select Bracket Content"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 406.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Dropbox/xampp/htdocs/najas/app/lib/image-browser/js/image-browser.js",
+		"/F/Dropbox/xampp/htdocs/najas/ui/css/slimbox2.css",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/admin/galleries.php",
+		"/F/Dropbox/xampp/htdocs/najas/ui/js/lib/jquery.fileupload.js",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/controller.php",
+		"/F/Dropbox/xampp/htdocs/najas/ui/css/layout.css",
+		"/F/Dropbox/xampp/htdocs/najas/app/lib/image-browser/html/templates.html",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DI04.567/screen.css",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/admin/images.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/lib/image-browser/html/main.html",
+		"/F/Dropbox/xampp/htdocs/najas/.htaccess",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/admin/admin.php",
+		"/F/Dropbox/xampp/htdocs/najas/ui/js/image-browser.js",
+		"/F/Dropbox/xampp/htdocs/najas/ui/css/imgbrowser.css",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/galleries/galleries.html",
+		"/F/Dropbox/xampp/htdocs/najas/ui/css/transdmin.css",
+		"/F/Dropbox/xampp/htdocs/najas/app/api/galleries.php",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/admin.html",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/images/edit.html",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/galleries/edit.html",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+		"/F/Dropbox/xampp/htdocs/najas/app/api/images.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/models/image.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/config/routes.ini",
+		"/F/Dropbox/xampp/htdocs/najas/app/config/config.ini",
+		"/F/Dropbox/xampp/htdocs/najas/app/utils/utils.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/api/api.php",
+		"/F/Dropbox/xampp/htdocs/najas/lib/db/sql/mapper.php",
+		"/F/Dropbox/Programs/WindowPadX/WindowPadX.ini",
+		"/F/Dropbox/xampp/htdocs/najas/lib/db/cursor.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/admin/projects.php",
+		"/F/Dropbox/notes.txt",
+		"/F/Dropbox/xampp/htdocs/najas/app/models/model.php",
+		"/F/Downloads/Adobe Premiere Pro CS5.5/INSTALLING INSTRUCTIONS.txt",
+		"/F/Dropbox/Programs/WindowPadX/Readme.md",
+		"/F/Dropbox/xampp/htdocs/najas/app/models/slugmodel.php",
+		"/F/Dropbox/xampp/php/php.ini-default",
+		"/F/Dropbox/xampp/php/php.ini",
+		"/F/Dropbox/xampp/htdocs/najas/lib/db/sql.php",
+		"/F/Projects/MED5/ShepherdsTale/Assets/Scripts/Patroller.cs",
+		"/F/Projects/MED5/ShepherdsTale/Assets/Scripts/WolfController.cs",
+		"/F/Dropbox/xampp/htdocs/najas/ui/plugins/fileupload/server/php/UploadHandler.php",
+		"/F/Dropbox/xampp/htdocs/najas/ui/plugins/fileupload/server/php/index.php",
+		"/F/Dropbox/xampp/htdocs/najas/ui/js/jquery-file-upload.js",
+		"/F/Dropbox/xampp/htdocs/najas/ui/plugins/fileupload/index.html",
+		"/F/Dropbox/xampp/htdocs/najas/ui/js/jquery.iframe-transport.js",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/projects/edit.html",
+		"/F/Dropbox/xampp/htdocs/najas/ui/plugins/fileupload/README.md",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/projects/projects.html",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/images/images.html",
+		"/F/Dropbox/xampp/htdocs/najas/notes.md",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/images/upload.html",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/images/create.html",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/frontend/frontend.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/frontend.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/api/projects.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/models/gallery.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/models/project.php",
+		"/F/Dropbox/xampp/htdocs/shepherd_log/app/utils/utils.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/projects.php",
+		"/F/Dropbox/Medialogy/MED5/TA/wget_files.ps1",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/admin.php",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/galleries/create.html",
+		"/F/Dropbox/xampp/htdocs/najas/lib/base.php",
+		"/F/Dropbox/Medialogy/MED5/TA/get_cookies_.ps1",
+		"/F/Dropbox/Medialogy/MED5/TA/post_grade.ps1",
+		"/F/Dropbox/xampp/htdocs/najas/app/utils/stringutils.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/controllers/galleries.php",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/F/Dropbox/xampp/htdocs/najas/ui/layout.html",
+		"/F/Dropbox/MED5/Implementation/Prototype/Unity/Assets/Scripts/CameraController.cs",
+		"/F/Dropbox/xampp/htdocs/najas/app/models/projectmodel.php",
+		"/F/Dropbox/MED5/Implementation/Prototype/Unity/Assets/Scripts/EnemyAI.cs",
+		"/F/Dropbox/xampp/htdocs/najas/transdmin-master/xhtml/index.html",
+		"/F/Dropbox/xampp/htdocs/med4_test/index.php",
+		"/F/Dropbox/Medialogy/MED5/CGP/lesson5/unity/Assets/Shaders/Lesson7.shader",
+		"/F/Dropbox/xampp/htdocs/najas/app/utils/string_utils.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/models/project_model.php",
+		"/F/Dropbox/xampp/htdocs/najas/app/utils/string.php",
+		"/F/Dropbox/xampp/htdocs/najas/lib/image.php",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/projects/index.html",
+		"/F/Dropbox/xampp/htdocs/najas/ui/admin/projects.html",
+		"/F/Dropbox/xampp/htdocs/najas/transdmin-master/README.rdoc",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/Origami/Default (Windows).sublime-keymap",
+		"/F/Dropbox/Scripts/test_keys.ahk",
+		"/F/Dropbox/Medialogy/MED5/SM/soundtrack/notes.md",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/F/Dropbox/Projects/Java/Graph/src/dk/as/citygraph/CityGraph.java",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/SimpleMovements/Example.sublime-keymap",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/User/Not a valid sketch folder. F",
+		"/F/Dropbox/Projects/Java/Graph/src/dk/as/citygraph/City.java",
+		"/F/Dropbox/Scripts/vim_keys.ahk",
+		"/F/Dropbox/Programs/vim/vim74/README_dos.txt",
+		"/F/Dropbox/Medialogy/MED5/SM/lesson2.md",
+		"/F/Dropbox/Programs/bin/setup-env.ps1",
+		"/F/Dropbox/Medialogy/MED5/CGP/hand-in1/main.cpp",
+		"/F/Dropbox/Medialogy/MED5/TA/files.txt",
+		"/F/Dropbox/Books/Math/MMA/wget_math_notes.ps1",
+		"/F/Dropbox/Medialogy/MED5/TA/output.txt",
+		"/F/Dropbox/xampp/htdocs/f3-cms/app/routes.ini",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/EasyMotion/Default (Windows).sublime-keymap",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/EasyMotion/easy_motion.py",
+		"/F/Dropbox/xampp/htdocs/f3-cms/app/config.ini",
+		"/F/Dropbox/Medialogy/MED5/TA/form.txt",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/EasyMotion/easy_motion.pyc",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/EasyMotion/EasyMotion.sublime-settings",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/EasyMotion/Default.sublime-keymap",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/EasyMotion/Main.sublime-menu",
+		"/F/Dropbox/Programs/SublimeText/Data/Packages/EasyMotion/package-metadata.json",
+		"/C/Users/Adam/setup-env.ps1",
+		"/F/Dropbox/MED5/Supervisor meeting notes/2013-10-02.txt",
+		"/F/Dropbox/Programs/bin/setup-programs.ps1",
+		"/F/Dropbox/Medialogy/MED5/CGP/hand-in1/matutils.h",
+		"/F/Dropbox/Scripts/text_editing_hotkeys.ahk",
+		"/F/Dropbox/Programs/vim/vim74/autoload/pathogen.vim",
+		"/F/Dropbox/vimtest.java",
+		"/F/Dropbox/Programs/vim/vim74/README.txt",
+		"/F/Dropbox/Medialogy/MED5/CGP/hand-in1/main (Adam-Laptop's conflicted copy 2013-09-14).cpp",
+		"/F/Dropbox/Medialogy/MED5/CGR/Hand-In 2/hand_in_3.md",
+		"/F/Dropbox/xampp/htdocs/btp_promo/index.html",
+		"/F/Dropbox/Medialogy/MED5/CGR/Hand-In 2/hand_in_3.html",
+		"/F/Dropbox/MED5/Notes/player modeling.html",
+		"/F/Dropbox/MED5/Notes/player modeling.md",
+		"/F/Dropbox/Projects/TimeForTV/playground/WebViewClient/TODO.txt",
+		"/F/Dropbox/Projects/TimeForTV/playground/WebViewClient/tools/g2dm/g2dm_curl.ps1",
+		"/F/Dropbox/Medialogy/MED5/SM/lesson1.md",
+		"/F/Dropbox/xampp/htdocs/wvtest/g2dm_curl.ps1",
+		"/F/Dropbox/Medialogy/MED5/CGP/exercise2/main.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ImageList",
+			"imgList",
+			"Description",
+			"Title",
+			"this",
+			"h3",
+			"image",
+			"second",
+			"<label",
+			"li",
+			"ul",
+			"h2",
+			"_",
+			"h3",
+			"div",
+			"url",
+			"url\nurl",
+			"url",
+			"js",
+			"Dashboard",
+			"url",
+			"title",
+			"$put",
+			"onDeleteClick",
+			"=",
+			"img/",
+			"img",
+			"Delete",
+			"sayClicked",
+			"onMouseOut",
+			"onmouse",
+			"mouseleave",
+			"onmouseOut",
+			"onMouseOver",
+			"mouseover",
+			"onHover",
+			"get",
+			"load",
+			"model",
+			"path",
+			"url",
+			"window",
+			"imgList",
+			"imgModel",
+			"model",
+			"ImageFolderView",
+			"ImageBrowserView",
+			"src",
+			"error",
+			"MYSQL_ATTR_INIT_COMMAND",
+			"\\)\\{",
+			"){",
+			"jNice",
+			"js/",
+			"js",
+			"error",
+			"function cast",
+			"cast",
+			"project",
+			"Remove",
+			"delete",
+			"h4",
+			"project",
+			"projects",
+			"dirname",
+			"private",
+			"filename",
+			"project",
+			"onError",
+			"successCallback",
+			"onSuccess",
+			"responseText",
+			"\");\n",
+			"Models\\Project",
+			"project",
+			"gallery",
+			"galleries",
+			"Galleries",
+			"galleries",
+			"Controllers",
+			"galleries",
+			"Galleries",
+			"extras",
+			"Mapper",
+			"2",
+			"table",
+			"TABLE_NAME",
+			"table",
+			"Utils",
+			"json_encode",
+			"create",
+			"Projects",
+			"projects",
+			"\"projects\"",
+			"public",
+			"project",
+			"patch",
+			"error",
+			"project",
+			"author",
+			"title",
+			"$",
+			"Projects",
+			"projects",
+			"project",
+			"crea",
+			"projects",
+			"project",
+			"projects",
+			"project",
+			"Projects",
+			"Pr",
+			"Projects",
+			"=",
+			"new",
+			"Models",
+			"isValid",
+			"assignSlug",
+			"setSlug",
+			"empty",
+			"||",
+			"UnexpectedValueExcetion",
+			"UnexpectedArgumentException",
+			"&&",
+			"title",
+			"title=",
+			"value",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			")\\n{",
+			"title",
+			"td",
+			"ctrl+w",
+			"ctrl",
+			"",
+			";",
+			";\\n",
+			";",
+			";\\n",
+			"pt)\\n",
+			"\\nEXCERCISE",
+			"pt)\\n",
+			" ",
+			"\\n\\n",
+			"\\n$1:",
+			"$1:\\n",
+			"$1\\n",
+			"pt)\\n",
+			"\\n",
+			" ",
+			"pt)\\n",
+			"\\n",
+			"\\n<br/>",
+			"\\n",
+			"  `--",
+			"`--",
+			"\\n",
+			"Edge",
+			"Vertex",
+			"ET",
+			"VT",
+			";",
+			"",
+			"S",
+			"e",
+			"head",
+			"tail",
+			"IEdge",
+			"BNode<T>",
+			"T",
+			"println",
+			"T",
+			".",
+			"right",
+			"Right",
+			"Left",
+			"BNode",
+			",\n,",
+			",\n",
+			"",
+			"\\1",
+			"\n\\1",
+			"",
+			"empty",
+			"delete",
+			"_prev",
+			"_next",
+			"T"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ui/css/lightbox.css",
+					"settings":
+					{
+						"buffer_size": 4262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2294,
+								2294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2110.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/config/routes.ini",
+					"settings":
+					{
+						"buffer_size": 2609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								859,
+								859
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/INI/INI.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ui/admin/galleries/edit.html",
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ui/layout.html",
+					"settings":
+					{
+						"buffer_size": 552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/config/config.ini",
+					"settings":
+					{
+						"buffer_size": 942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/INI/INI.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ui/admin/admin.html",
+					"settings":
+					{
+						"buffer_size": 1631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/admin/admin.php",
+					"settings":
+					{
+						"buffer_size": 1291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1058,
+								1058
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ui/admin/playground.html",
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/utils/utils.php",
+					"settings":
+					{
+						"buffer_size": 2607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1836,
+								1836
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/controllers/controller.php",
+					"settings":
+					{
+						"buffer_size": 1488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/lib/image-browser/html/templates.html",
+					"settings":
+					{
+						"buffer_size": 3344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3237,
+								3237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1843.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 11,
+					"file": "app/lib/image-browser/css/imgbrowser.css",
+					"settings":
+					{
+						"buffer_size": 1831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								803,
+								803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1026.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/lib/image-browser/js/image-browser.js",
+					"settings":
+					{
+						"buffer_size": 8254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6086,
+								6086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4384.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/api/images.php",
+					"settings":
+					{
+						"buffer_size": 2930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1218,
+								1218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 551.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "notes.md",
+					"settings":
+					{
+						"buffer_size": 1939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.470246558879,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 218.0
+	},
+	"output.exec":
+	{
+		"height": 252.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"utils",
+				"app/utils/utils.php"
+			],
+			[
+				"templ",
+				"app/lib/image-browser/html/templates.html"
+			],
+			[
+				"image",
+				"app/lib/image-browser/js/image-browser.js"
+			],
+			[
+				"cont",
+				"app/controllers/controller.php"
+			],
+			[
+				"la",
+				"ui/css/layout.css"
+			],
+			[
+				"lay",
+				"ui/css/layout.css"
+			],
+			[
+				"util",
+				"app/utils/utils.php"
+			],
+			[
+				"route",
+				"app/config/routes.ini"
+			],
+			[
+				"adm",
+				"ui/admin/admin.html"
+			],
+			[
+				"api/im",
+				"app/api/images.php"
+			],
+			[
+				"images",
+				"app/controllers/admin/images.php"
+			],
+			[
+				"conf",
+				"app/config/config.ini"
+			],
+			[
+				"layo",
+				"ui/layout.html"
+			],
+			[
+				"htac",
+				".htaccess"
+			],
+			[
+				"gal",
+				"ui/admin/galleries/galleries.html"
+			],
+			[
+				"layou",
+				"ui/css/layout.css"
+			],
+			[
+				"tra",
+				"ui/css/transdmin.css"
+			],
+			[
+				"admin",
+				"app/controllers/admin/admin.php"
+			],
+			[
+				"con",
+				"app/controllers/controller.php"
+			],
+			[
+				"imgb",
+				"ui/css/imgbrowser.css"
+			],
+			[
+				"gall",
+				"app/api/galleries.php"
+			],
+			[
+				"ima",
+				"ui/js/image-browser.js"
+			],
+			[
+				"cur",
+				"lib/db/cursor.php"
+			],
+			[
+				"mod",
+				"app/models/model.php"
+			],
+			[
+				"slug",
+				"app/models/slugmodel.php"
+			],
+			[
+				"sql",
+				"lib/db/sql/mapper.php"
+			],
+			[
+				"db",
+				"lib/db/cursor.php"
+			],
+			[
+				"api",
+				"app/api/api.php"
+			],
+			[
+				"hta",
+				".htaccess"
+			],
+			[
+				"uti",
+				"app/utils/utils.php"
+			],
+			[
+				"rou",
+				"app/config/routes.ini"
+			],
+			[
+				"sq",
+				"lib/db/sql.php"
+			],
+			[
+				"confi",
+				"app/config/config.ini"
+			],
+			[
+				"routes",
+				"app/config/routes.ini"
+			],
+			[
+				"proj",
+				"app/models/project.php"
+			],
+			[
+				"proje",
+				"app/controllers/projects.php"
+			],
+			[
+				"ssl",
+				"app/models/slugmodel.php"
+			],
+			[
+				"projec",
+				"app/api/projects.php"
+			],
+			[
+				"galler",
+				"app/models/gallery.php"
+			],
+			[
+				"bas",
+				"lib/base.php"
+			],
+			[
+				"edi",
+				"ui/admin/projects/edit.html"
+			],
+			[
+				"pro",
+				"ui/admin/projects/projects.html"
+			],
+			[
+				"rout",
+				"app/config/routes.ini"
+			],
+			[
+				"transm",
+				"ui/css/transdmin.css"
+			],
+			[
+				"contr",
+				"app/controllers/controller.php"
+			],
+			[
+				"test",
+				"/F/Dropbox/Scripts/test_keys.ahk"
+			],
+			[
+				"tes",
+				"/F/Dropbox/Scripts/test_keys.ahk"
+			],
+			[
+				"test_",
+				"/F/Dropbox/Scripts/test_keys.ahk"
+			],
+			[
+				"ma",
+				"main.c"
+			],
+			[
+				"bab",
+				"learn/baby.hs"
+			],
+			[
+				"ex",
+				"exercises.hs"
+			],
+			[
+				"city",
+				"src/dk/as/citygraph/CityGraphDisplay.java"
+			],
+			[
+				"ci",
+				"src/dk/as/citygraph/CityGraphDisplay.java"
+			],
+			[
+				"nod",
+				"src/dk/as/search/Node.java"
+			],
+			[
+				"node",
+				"src/dk/as/search/Node.java"
+			],
+			[
+				"fro",
+				"src/dk/as/search/Frontier.java"
+			],
+			[
+				"se",
+				"src/dk/as/search/Search.java"
+			],
+			[
+				"bui",
+				"build.xml"
+			],
+			[
+				"sea",
+				"src/dk/as/search/Search.java"
+			],
+			[
+				"simplee",
+				"src/dk/as/graph2/SimpleEdge.java"
+			],
+			[
+				"ed",
+				"src/dk/as/graph2/Edge.java"
+			],
+			[
+				"verte",
+				"src/dk/as/graph2/Vertex.java"
+			],
+			[
+				"gra",
+				"src/dk/as/graph2/Graph.java"
+			],
+			[
+				"sim",
+				"src/dk/as/graph2/SimpleGraph.bak"
+			],
+			[
+				"grap",
+				"src/dk/as/graph2/Graph.java"
+			],
+			[
+				"pa",
+				"src/dk/as/search/PathProblem.java"
+			],
+			[
+				"vert",
+				"src/dk/as/graph/Vertex2.java"
+			],
+			[
+				"road",
+				"src/dk/as/graph/Road.java"
+			],
+			[
+				"iv",
+				"src/dk/as/graph/IVertex.java"
+			],
+			[
+				"igr",
+				"src/dk/as/graph/IGraph.java"
+			],
+			[
+				"ie",
+				"src/dk/as/graph/IEdge.java"
+			],
+			[
+				"cityg",
+				"src/dk/as/graph/CityGraph.java"
+			],
+			[
+				"ver",
+				"src/dk/as/graph/Vertex.java"
+			],
+			[
+				"roa",
+				"src/dk/as/graph/Road.java"
+			],
+			[
+				"prob",
+				"src/dk/as/search/Problem.java"
+			],
+			[
+				"sear",
+				"src/dk/as/search/Search.java"
+			],
+			[
+				"bu",
+				"Graph/build.xml"
+			],
+			[
+				"nn",
+				"NTree/src/NNode.java"
+			],
+			[
+				"sn",
+				"NTree/src/SNode.java"
+			],
+			[
+				"cit",
+				"Graph/src/City.java"
+			],
+			[
+				"buil",
+				"Graph/build.xml"
+			],
+			[
+				"sno",
+				"NTree/src/SNode.java"
+			],
+			[
+				"e",
+				"Graph/src/Edge.java"
+			],
+			[
+				"nnod",
+				"NTree/src/NNode.java"
+			],
+			[
+				"graphs",
+				"Graph/src/GraphSearch.java"
+			],
+			[
+				"nno",
+				"NTree/src/NNode.java"
+			],
+			[
+				"ied",
+				"Java/Graph/src/IEdge.java"
+			],
+			[
+				"f",
+				"/F/Dropbox/Scripts/tips.txt"
+			],
+			[
+				"start",
+				"Scripts/start_menu.ahk"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"she",
+				"/F/Dropbox/xampp/htdocs/shepherd_log/shepherd_log.sublime-project"
+			],
+			[
+				"shep",
+				"/F/Dropbox/xampp/htdocs/shepherd_log/shepherd_log.sublime-project"
+			],
+			[
+				"u",
+				"/F/Projects/MED5/ShepherdsTale/Assets/unity-shepherd.sublime-project"
+			],
+			[
+				"",
+				"/F/Projects/MED5/ShepherdsTale/Assets/unity-shepherd.sublime-project"
+			],
+			[
+				"uni",
+				"/F/Projects/MED5/ShepherdsTale/Assets/unity-shepherd.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}

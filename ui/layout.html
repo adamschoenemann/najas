@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<base href="{{ @SCHEME.'://'.@HOST.@BASE.'/'.@UI }}" />
+		<meta charset="{{ @ENCODING }}" />
+		<title>{{ @title }}</title>
+    <repeat group="{{ @css }}" value="{{ @href }}">
+      <link rel="stylesheet" href="{{ @href }}" type="text/css" />
+    </repeat>
+	</head>
+	<body>
+    <div id="scripts" style="display: none;">
+      <repeat group="{{@js}}" value="{{@src}}">
+        <script type="text/javascript" src="{{@src}}" ></script>
+      </repeat>
+    </div>
+    <include href="{{ @inc}}" />
+	</body>
+</html>

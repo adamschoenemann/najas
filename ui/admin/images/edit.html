@@ -1,0 +1,128 @@
+<h3>{{@action}}</h3>
+<form action="/najas/api/images" method="post" id="myForm">
+  <!-- MAX_FILE_SIZE must precede the file input field -->
+  <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
+  <table>
+    <tr>
+      <td>Title</td>
+      <td>
+        <input type="text" value="{{@image.title}}" name="title"/>
+      </td>
+    </tr>
+      <td>Description</td>
+      <td>
+        <textarea name="description">{{@image.description}}</textarea>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        File
+      </td>
+      <td>
+        <input id="fileupload" name="image[]" type="file" data-url="../api/images/"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Gallery</td>
+      <td>
+        <input type="list"/>
+      </td>
+    </tr>
+  </table>
+  <input type="submit" value="Submit" />
+</form>
+<script type="text/javascript">
+  (function($){
+
+    function preSubmit(formData, jqForm, options){
+      console.log("about to submit");
+      return true;
+    }
+
+    function successCallback(responseText, statusText, xhr, $form){
+      console.log(responseText);
+      console.log(statusText);
+    }
+
+    function errorCallback(error){
+      console.log(error.responseText);
+    }
+
+    // This does not work
+    // The goddamn jquery image file upload
+    // plugin is a pain to install and use! WTF!?
+    $(document).ready(function(){
+      $("#fileupload").fileupload({
+
+        add: function(e, data){
+          console.log("added");
+          data.submit();
+        },
+        dataType: "json",
+        method: "post",
+        done: function(e, data){
+          $.each(data.result.files, function(index, file){
+              $('<p/>').text(file.name).appendTo(document.body);
+          });
+        }
+      });
+    });
+
+ /*   $(document).ready(function(){
+      var options = {
+        dataType: "json",
+        beforeSubmit: preSubmit,
+        success: successCallback,
+        error: errorCallback
+      };
+
+      $("#myForm").ajaxForm(options);
+    });*/
+
+    function getInput(name){
+      return $("input[name='" + name + "']");
+    }
+
+    function isValueEmpty(input){
+      return (input.val() === "");
+    }
+
+    // Easy, basic error handling
+    // Abstract in the future for reuse
+    /*$(document).ready(function(){
+      $("input[type='submit']").click(function(){
+        var errors = [];
+        var names = ["title", "author", "teaser"];
+        var fields = [];
+
+        for (var i = 0; i < names.length; i++) {
+          fields.push(getInput(names[i]));
+        };
+
+        fields.push($("textarea[name='description']"));
+        
+        for (var i = 0; i < fields.length; i++) {
+          fields[i].removeAttr("style");
+          var val = fields[i].val();
+          if($.trim(val) == ""){
+            errors.push(fields[i]);
+          }
+        };
+        
+        if(errors.length == 0){
+          return false;
+        }
+
+        for (var i = 0; i < errors.length; i++) {
+          errors[i].css("border", "1px solid red");
+          alert(errors[i].attr("name") + " is incorrectly filled");
+        };
+
+        return false;
+      });
+    });*/
+  })(jQuery);
+</script>
+<pre>
+  <!-- {{print_r(@image)}} -->
+</pre>

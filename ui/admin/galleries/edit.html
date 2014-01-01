@@ -1,0 +1,14 @@
+<include href="../app/lib/image-browser/html/templates.html" />
+<h3>{{@action}}</h3>
+<form action="" method="post">
+  <table>
+    <tr>
+      <td>Title</td>
+      <td>
+        <input type="text" value="{{@gallery.title}}" name="title"/>
+      </td>
+    </tr>
+  </table>
+</form>
+<h3>Images</h3>
+<div id="img-browser-container"></div>

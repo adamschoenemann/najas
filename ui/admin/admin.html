@@ -1,0 +1,48 @@
+	<div id="wrapper">
+		<!-- h1 tag stays for the logo, you can use the a tag for linking the index page -->
+		<h1><a href=""><span>{{ @title }}</span></a></h1>
+
+		<!-- You can name the links with lowercase, they will be transformed to uppercase by CSS, we prefered to name them with uppercase to have the same effect with disabled stylesheet -->
+		<ul id="mainNav">
+			<!-- Use the "active" class for the active menu item  -->
+			<repeat group="{{ @menu }}" value="{{ @item }}">
+				<li><a href="{{ @item.href}}">{{ @item.name }}</a></li>
+			</repeat>
+			<li class="logout"><a href="#">LOGOUT</a></li>
+		</ul>
+		<!-- // #end mainNav -->
+
+		<div id="containerHolder">
+			<div id="container">
+				<div id="sidebar">
+					<ul class="sideNav">
+            <check if="{{isset(@submenu)}}">
+              <repeat group="{{@submenu}}" value="{{@item}}">
+                <li><a href="{{@CTRL}}/{{@item.href}}">{{@item.name}}</a></li>
+              </repeat>
+            </check>
+          </ul>
+          <!-- // .sideNav -->
+        </div>    
+        <!-- // #sidebar -->
+
+        <!-- h2 stays for breadcrumbs -->
+        <h2><a href="">{{@page}}</a> &raquo; <a href="#" class="active">{{@action}}</a></h2>
+
+        <div id="main">
+         <check if="{{ isset(@content) }}">
+          <include href="{{ @content }}" />
+        </check>
+      </div>
+      <!-- // #main -->
+
+      <div class="clear"></div>
+    </div>
+    <!-- // #container -->
+  </div>	
+  <!-- // #containerHolder -->
+
+  <p id="footer">Feel free to use and customize it. <a href="http://www.perspectived.com">Credit is appreciated.</a></p>
+</div>
+<!-- // #wrapper -->
+

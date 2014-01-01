@@ -1,0 +1,17 @@
+<h3>Galleries</h3>
+<table cellpadding="0" cellspading="0">
+  <tr>
+    <th>Title</th>
+    <th span="1"></th>
+  </tr>
+  <repeat group="{{ @galleries }}" value="{{@gallery}}">
+    <tr>
+      <td>{{@gallery.title}}</td>
+      <td class="action">
+        <a href="{{@CTRL}}/view/{{@gallery.id}}" class="view">View</a>
+        <a href="{{@CTRL}}/edit/{{@gallery.id}}" class="edit">Edit</a>
+        <a href="{{@CTRL}}/delete/{{@gallery.id}}" class="delete">Delete</a>
+      </td>
+    </tr>
+  </repeat>
+</table>

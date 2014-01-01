@@ -1,0 +1,21 @@
+<h3>Projects</h3>
+<table cellpadding="0" cellspading="0">
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Path</th>
+    <th span="3"></th>
+  </tr>
+  <repeat group="{{ @images }}" value="{{@image}}">
+    <tr>
+      <td>{{@image.title}}</td>
+      <td>{{@image.description}}</td>
+      <td>{{@image.path}}</td>
+      <td class="action">
+        <!-- <a href="{{@CTRL}}/view/{{@image.id}}" class="view">View</a> -->
+        <a href="{{@CTRL}}/edit/{{@image.id}}" class="edit">Edit</a>
+        <a href="{{@CTRL}}/delete/{{@image.id}}" class="delete">Delete</a>
+      </td>
+    </tr>
+  </repeat>
+</table>

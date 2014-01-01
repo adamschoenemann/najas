@@ -1,0 +1,22 @@
+<section id="admin">
+  <section id="header">
+    <span>{{ @title }}</span>
+  </section>
+  <section id="main">
+    <section id="sidebar">
+      <nav>
+        <ul>
+          <repeat group="{{ @menu}}" value="{{ @item }}">
+            <li>
+              <a href="{{ @item['href'] }}">{{ @item['name']}}</a>
+            </li>          
+          </repeat>
+        </ul>
+      </nav>
+    </section>
+    <section id="content">
+      <include href="{{ @content }}" />
+    </section>
+    <div class="clear"></div>
+  </section>
+</section>
